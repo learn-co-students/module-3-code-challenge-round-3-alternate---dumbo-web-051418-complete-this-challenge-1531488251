@@ -1,0 +1,223 @@
+{
+  "authors": [
+    {
+      "blogName": "Well-Mannered with May",
+      "name": "May Cheung",
+      "id": 1
+    },
+    {
+      "blogName": "Natalie Knows",
+      "name": "Natalie Perpepaj",
+      "id": 2
+    },
+    {
+      "blogName": "Laura On...",
+      "name": "Laura Kim",
+      "id": 3
+    },
+    {
+      "blogName": "Brooke's Guide",
+      "name": "Brooke Yalof",
+      "id": 4
+    }
+  ],
+  "blogPosts": [
+    {
+      "title": "May's Mind Your Manners",
+      "authorId": 1,
+      "id": 1
+    },
+    {
+      "title": "Laura On How to Make Friends at Work",
+      "authorId": 3,
+      "id": 2
+    },
+    {
+      "title": "Natalie Knows HOCs",
+      "authorId": 2,
+      "id": 3
+    },
+    {
+      "title": "Natalie Knows Callbacks",
+      "authorId": 2,
+      "id": 4
+    },
+    {
+      "title": "May's Tips on How to Listen Well",
+      "authorId": 1,
+      "id": 5
+    },
+    {
+      "title": "Laura On How to Mentor Strong Leaders",
+      "authorId": 3,
+      "id": 6
+    },
+    {
+      "title": "Brooke's Guide to European Cities: Stockholm",
+      "authorId": 4,
+      "id": 7
+    },
+    {
+      "title": "Brooke's Guide to European Cities: London",
+      "authorId": 4,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "content": "first comment!",
+      "blogPostId": 1,
+      "id": 1
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 1,
+      "id": 2
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 1,
+      "id": 4
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 2,
+      "id": 5
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 2,
+      "id": 6
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 2,
+      "id": 7
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 2,
+      "id": 8
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 3,
+      "id": 9
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 3,
+      "id": 10
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 3,
+      "id": 11
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 3,
+      "id": 12
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 4,
+      "id": 13
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 4,
+      "id": 14
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 4,
+      "id": 15
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 4,
+      "id": 16
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 5,
+      "id": 17
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 5,
+      "id": 18
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 5,
+      "id": 19
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 5,
+      "id": 20
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 6,
+      "id": 21
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 6,
+      "id": 22
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 6,
+      "id": 23
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 6,
+      "id": 24
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 7,
+      "id": 25
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 7,
+      "id": 26
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 7,
+      "id": 27
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 7,
+      "id": 28
+    },
+    {
+      "content": "first comment!",
+      "blogPostId": 8,
+      "id": 29
+    },
+    {
+      "content": "Oooh, thanks for sharing!",
+      "blogPostId": 8,
+      "id": 30
+    },
+    {
+      "content": "So helpful!",
+      "blogPostId": 8,
+      "id": 31
+    },
+    {
+      "content": "The best I've read in ages <3",
+      "blogPostId": 8,
+      "id": 32
+    }
+  ]
+}

@@ -80,31 +80,6 @@
       "id": 4
     },
     {
-      "content": "first comment!",
-      "blogPostId": 2,
-      "id": 5
-    },
-    {
-      "content": "Oooh, thanks for sharing!",
-      "blogPostId": 2,
-      "id": 6
-    },
-    {
-      "content": "So helpful!",
-      "blogPostId": 2,
-      "id": 7
-    },
-    {
-      "content": "The best I've read in ages <3",
-      "blogPostId": 2,
-      "id": 8
-    },
-    {
-      "content": "first comment!",
-      "blogPostId": 3,
-      "id": 9
-    },
-    {
       "content": "Oooh, thanks for sharing!",
       "blogPostId": 3,
       "id": 10
@@ -123,11 +98,6 @@
       "content": "first comment!",
       "blogPostId": 4,
       "id": 13
-    },
-    {
-      "content": "Oooh, thanks for sharing!",
-      "blogPostId": 4,
-      "id": 14
     },
     {
       "content": "So helpful!",

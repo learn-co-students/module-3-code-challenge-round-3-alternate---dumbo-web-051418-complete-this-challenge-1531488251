@@ -22,7 +22,7 @@ A BlogN user will be able to do the following things:
   - As a user, when I click on a delete button for a comment, it should delete the comment.
 
 ## Functionality demo
-  [Example](./animated_challenge_example.gif "Example Functionality")
+  [Example](./example.gif "Example Functionality")
 
 Please look at the starter code in `index.html` before you begin, so you don't recreate code that already exists there.
 

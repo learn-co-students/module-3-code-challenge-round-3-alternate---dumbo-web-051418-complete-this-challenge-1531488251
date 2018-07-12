@@ -55,10 +55,10 @@ When an author is selected from the dropdown, make a Fetch request to retrieve a
 
 #### API Docs
 #### Endpoint to show an author's blog posts
+This request returns all the blog posts for an author with ID 1. You must dynamically make this request to the correct author id whenever an author is selected from the dropdown.
+
 ```
 GET 'http://localhost:3000/authors/1?_embed=blogPosts'
-
-This request returns all the blog posts for an author with ID 1. You must dynamically make this request to the correct author id whenever an author is selected from the dropdown.
 
 Example Response:
 {
@@ -94,10 +94,11 @@ When a user clicks on a blog post, make a Fetch request to retrieve all the comm
 
 #### API Docs
 #### Endpoint to show a blog post's comments
+This request returns all the comments with a blogPost id of 1. You must dynamically make this request to the correct blogPost id whenever a blog post title is clicked on.
+
 ```
 GET 'http://localhost:3000/blogPosts/1?_embed=comments'
 
-This request returns all the comments with a blogPost id of 1. You must dynamically make this request to the correct blogPost id whenever a blog post title is clicked on.
 
 Example Response:
 {
@@ -136,11 +137,11 @@ This app will use what is called *optimistic rendering*. This means the DOM will
 
 #### API Docs
 #### Endpoint to delete a comment
-```
+
 DELETE 'http://localhost:3000/comments/1'
 
 This request deletes the comment with id 1. You must dynamically make this request to the correct comment id whenever a comment delete button is clicked on.
 
-To confirm if the comment was deleted, try to view it at `http://localhost:3000/comments/:id`. A deleted comment will return `{}`
+Whether or not the DELETE request was successful, the API will return `{}`. To confirm if the comment was deleted, try to view it at `http://localhost:3000/comments/:id`. 
 
 

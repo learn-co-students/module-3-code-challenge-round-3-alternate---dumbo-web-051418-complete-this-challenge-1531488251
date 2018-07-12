@@ -138,7 +138,19 @@ This app will use what is called *optimistic rendering*. This means the DOM will
 #### API Docs
 #### Endpoint to delete a comment
 
+```
 DELETE 'http://localhost:3000/comments/1'
+
+Required Headers:
+{
+  'Accept': 'application/json',
+  'Content-Type': 'application/json'
+}
+
+Example Response:
+{}
+
+```
 
 This request deletes the comment with id 1. You must dynamically make this request to the correct comment id whenever a comment delete button is clicked on.
 
